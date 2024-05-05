@@ -21,9 +21,10 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## Write a C program that illustrates two processes communicating using shared memory.
+```
 # DEVELOPED BY: ARIKATLA HARI VEERA PRASAD
 # REGISTER NUMBER: 212223240014
-```
+
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/shm.h>
